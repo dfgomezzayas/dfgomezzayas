@@ -1,5 +1,5 @@
 ## Hi, I'm Daniel F. Gómez Zayas
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+![](https://raw.githubusercontent.com/dfgomezzayas/dfgomezzayas/refs/heads/main/covergithub.png)
 
 ```jsx
 import { Developer } from '@/dfgomezzayas'
